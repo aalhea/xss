@@ -1,4 +1,4 @@
-# XSS Payload 高级绕过字典
+# 分享一下比较全的XSS Payload 高级绕过字典
 
 ---
 
